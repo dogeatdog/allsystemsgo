@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-why is there nothing in here ?
-=======
 
-let x=`yayandstuff`;
+let x=`yep`;
 console.print(x);
->>>>>>> master
