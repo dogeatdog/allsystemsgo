@@ -1,3 +1,3 @@
 
 let x=`yep`;
-console.print(x);
+console.log(x);
